@@ -24,6 +24,7 @@ Use:
 2. Overwrite the file into the directory where the bitcoin block file is located
 
 If you have any questions, please feel free to contact YoRHa@CryptoCell.guru
+
 https://github.com/CryptoCellLabs
 
 -------
