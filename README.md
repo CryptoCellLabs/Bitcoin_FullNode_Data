@@ -1,4 +1,4 @@
-# Bitcoin FullNode Data
+# Bitcoin Full Node Data
 Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin full nodes
 
 
