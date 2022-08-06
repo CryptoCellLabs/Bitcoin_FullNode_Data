@@ -5,6 +5,10 @@ Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin ful
 
 # Bitcoin Full Node data files
 
+Ali Cloud
+TBD
+
+Xunlei
 https://pan.xunlei.com/s/VN8nYQdBNwxmissfQIL8xOSeA1?pwd=e9qd
 
 Description:
