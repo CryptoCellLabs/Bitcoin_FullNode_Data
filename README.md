@@ -3,7 +3,9 @@ Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin ful
 
 
 
-Bitcoin Full Node data files
+# Bitcoin Full Node data files
+
+https://pan.xunlei.com/s/VN8nYQdBNwxmissfQIL8xOSeA1?pwd=e9qd
 
 Description:
 Because of Alibaba cloud's sharing restrictions, zip files cannot be directly shared. 
@@ -27,6 +29,7 @@ Bitcoinフルノードデータファイル
 1、まずファイルを.ZIPに変更してから、このファイルを解凍して、体積は約490 Gです
 2、ビットコインブロックファイルがあるディレクトリにファイルを上書きする
 何か問題があれば、いつでも連絡してください。YoRHa@CryptoCell.guru
+
 https://github.com/CryptoCellLabs
 
 -------
@@ -38,6 +41,7 @@ Bitcoin 전체 노드 데이터 파일
 1. 먼저 파일을.ZIP로 변경한 다음 압축을 풀면 대략 490G의 부피가 됩니다.
 2. 비트코인 블록 파일이 있는 디렉터리에 파일 덮어쓰기
 만약 무슨 문제가 있으면 언제든지 연락해라YoRHa@CryptoCell.guru
+
 https://github.com/CryptoCellLabs
 
 -------
@@ -54,4 +58,5 @@ Bitcoin全節點數據文件
 2、將文件覆蓋到比特幣區塊文件所在的目錄中
 
 如有任何問題，隨時聯繫  YoRHa@CryptoCell.guru
+
 https://github.com/CryptoCellLabs
