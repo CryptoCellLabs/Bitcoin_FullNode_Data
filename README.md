@@ -6,7 +6,7 @@ Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin ful
 # Bitcoin Full Node data files
 
 # Quark Cloud
-https://pan.quark.cn/s/e7d1bc985314
+https://pan.quark.cn/s/4c3b98e42c1f
 
 
 
