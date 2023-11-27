@@ -1,5 +1,6 @@
 # Bitcoin Full Node Data
 Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin full nodes
+定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步
 
 Website
 https://www.CryptoCell.Guru
