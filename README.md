@@ -1,25 +1,25 @@
 # Bitcoin Full Node Data
-**Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin full nodes
+# Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin full nodes
+# The data of this bitcoin full node data file is as of Dec 3, 2023
 
-The data of this bitcoin full node data file is as of Dec 3, 2023
+# 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
 
-定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
+# 当前更新到2023年12月3日的全节点数据
 
-当前更新到2023年12月3日的全节点数据。**
-
-Website
+# Website
 https://www.CryptoCell.Guru
 
-Twitter
+# Twitter
 https://twitter.com/CryptoCellLabs
 
-Email
+# Email
 YoRHa@CryptoCell.guru
 
-Discord
-https://discord.gg/PFGvaqWMj9
+# Discord
+http://C2Labs.Club
 
-XENTurbo - https://XENTurbo.io/ 
+# XENTurbo
+https://XENTurbo.io/ 
 
 # Bitcoin Full Node data files
 
@@ -30,7 +30,7 @@ https://pan.quark.cn/s/4c3b98e42c1f
 
 ------------
 
-SHA256 Hash
+# SHA256 Hash
 
 e41376b478447c02ed457d227aa8c1e7878b2006ab94b27dfc37209639d068e6    Bitcoin_FullNode_Dec3_2023.7z.001
 4c52711fa5e2043ce39014e93d004023d1d30610292c3d196868fb93ccda4621    Bitcoin_FullNode_Dec3_2023.7z.002
