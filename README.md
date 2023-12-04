@@ -6,19 +6,19 @@ The data of this bitcoin full node data file is as of Dec 3, 2023
 
 当前更新到2023年12月3日的全节点数据
 
-# Website
+Website
 https://www.CryptoCell.Guru
 
-# Twitter
+Twitter
 https://twitter.com/CryptoCellLabs
 
-# Email
+Email
 YoRHa@CryptoCell.guru
 
-# Discord
+Discord
 http://C2Labs.Club
 
-# XENTurbo
+XENTurbo
 https://XENTurbo.io/ 
 
 # Bitcoin Full Node data files
