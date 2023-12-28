@@ -23,10 +23,10 @@ https://XENTurbo.io/
 
 # Bitcoin Full Node data files
 
-# Quark Cloud 夸克网盘
+# 1. Quark Cloud 夸克网盘
 https://pan.quark.cn/s/4c3b98e42c1f
-
-# Google Drive 谷歌云硬盘
+OR
+# 2. Google Drive 谷歌云硬盘
 Bitcoin_FullNode_Dec3_2023_CryptoCeLL_Labs.torrent
 
 https://drive.google.com/drive/folders/1wpxjYwhofjA7s6LJ3H3lo8lHCAtOFqv2
