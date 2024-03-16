@@ -1,26 +1,14 @@
 
-██████╗ ██╗████████╗ ██████╗ ██████╗ ██╗███╗   ██╗                      
-██╔══██╗██║╚══██╔══╝██╔════╝██╔═══██╗██║████╗  ██║                      
-██████╔╝██║   ██║   ██║     ██║   ██║██║██╔██╗ ██║                      
-██╔══██╗██║   ██║   ██║     ██║   ██║██║██║╚██╗██║                      
-██████╔╝██║   ██║   ╚██████╗╚██████╔╝██║██║ ╚████║                      
-╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝                      
-                                                                        
-███████╗██╗   ██╗██╗     ██╗         ███╗   ██╗ ██████╗ ██████╗ ███████╗
-██╔════╝██║   ██║██║     ██║         ████╗  ██║██╔═══██╗██╔══██╗██╔════╝
-█████╗  ██║   ██║██║     ██║         ██╔██╗ ██║██║   ██║██║  ██║█████╗  
-██╔══╝  ██║   ██║██║     ██║         ██║╚██╗██║██║   ██║██║  ██║██╔══╝  
-██║     ╚██████╔╝███████╗███████╗    ██║ ╚████║╚██████╔╝██████╔╝███████╗
-╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝
-                                                                        
-
 # Bitcoin Full Node Data 比特币全节点数据
 Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin full nodes
-# The data of this bitcoin full node data file is as of Jan 3, 2024
+# The data of this bitcoin full node data file is as of March 16th, 2024
 
 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
 
-# 当前已更新到2024年1月3日的全节点数据
+# 当前已更新到2024年3月16日的全节点数据
+
+Bitcoin Full Node
+http://www.BTCFullNode.org/
 
 Website
 https://www.CryptoCell.Guru
@@ -39,10 +27,10 @@ https://XENTurbo.io/
 
 # Bitcoin Full Node data files
 
-# 1. Quark Cloud 夸克网盘
+# 1. Quark Cloud / 夸克网盘
 https://pan.quark.cn/s/4c3b98e42c1f
 OR
-# 2. Google Drive 谷歌云硬盘
+# 2. Google Drive / 谷歌云硬盘
 Bitcoin_FullNode_Dec3_2023_CryptoCeLL_Labs.torrent
 
 https://drive.google.com/drive/folders/1wpxjYwhofjA7s6LJ3H3lo8lHCAtOFqv2
@@ -88,7 +76,7 @@ c54a0bda447c4515dd35ce19697c6271177f10da3dcd7375906ebd7372f79bee  Bitcoin_FullNo
 # Description
 
 Usage:
-1. First, unzip the file, with a volume of about 610g
+1. First, unzip the file, with a volume of about 690g
 
 3. Overwrite the file into the directory where the bitcoin block file is located
 
@@ -99,7 +87,7 @@ https://github.com/CryptoCellLabs
 Bitcoinフルノードデータファイル
 
 使用方法：
-1、まずファイルを解凍し、体積は610 Gである
+1、まずファイルを解凍し、体積は690 Gである
 
 2、ビットコインブロックファイルがあるディレクトリにファイルを上書きする
 
@@ -112,7 +100,7 @@ Bitcoin全節點數據文件
 
 使用方法：
 
-1、首先將文件解壓縮，體積大約為610G
+1、首先將文件解壓縮，體積大約為690G
 
 2、將文件覆蓋到比特幣區塊文件所在的目錄中
 
