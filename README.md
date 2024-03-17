@@ -35,12 +35,6 @@ Bitcoin_FullNode_Dec3_2023_CryptoCeLL_Labs.torrent
 
 https://drive.google.com/drive/folders/1wpxjYwhofjA7s6LJ3H3lo8lHCAtOFqv2
 
-<img width="613"  src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/b7ae1444-9bd4-469c-b5a4-ccb3c51864a9">
-<img width="770"  src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/2000acf7-b893-490a-8eca-7205577c4e9a">
-<img width="770"  src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/4ab0b7eb-2866-4105-9bdb-679d7226e6a2">
-<img width="775"  src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/4f893e2c-f7ef-4c3e-82b7-88c1601e69f0">
-<img width="332"  src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/9bec6091-f80e-4d6b-9f56-9c3a0f6560c2">
-
 
 ------------
 # After downloading, please be sure to verify whether the SHA256 value of the file is correct to ensure that there are no problems during the download process.
@@ -52,24 +46,27 @@ All files have been tested and verified to be correct. If the file you download 
 
 所有文件均已经测试并校验无误，如果你下载的文件无法解压缩，请确保你下载的文件SHA256 Hash校验码和下列数据一致，如果不一致请重新下载。
 
-e79dcc6a0fcf365382f1541b0512f3fe669de2960ae50533a4a6886da1892d17  Bitcoin_FullNode_Jan3_2024.7z.001
-72569e07da79a8d1ec6597e0e62685a53f15ed4026846f96127eb7180db62001  Bitcoin_FullNode_Jan3_2024.7z.002
-9ba446759aebf01d5e70ff5e2c8b59a5d5a7580335ae16356879cef6f2f2a74a  Bitcoin_FullNode_Jan3_2024.7z.003
-7a18701ef21f72be09087cf1b31a9b171ad161385ef49ed4139f3b562b4e97f7  Bitcoin_FullNode_Jan3_2024.7z.004
-659dbbeda22940faea92cb2fe2a8827450ac83d8f8c6b57cadaa86f4c9c6ec94  Bitcoin_FullNode_Jan3_2024.7z.005
-5e43739550e02e78ee52fe831036bdf09018ab32a350eadb52623285980dc1cb  Bitcoin_FullNode_Jan3_2024.7z.006
-ee1bb7e7f67a9d0de3c3d1fee8ba67bb0ec41451e26a03fdc1159fb0b77996ae  Bitcoin_FullNode_Jan3_2024.7z.007
-3717bbc018d8a2d183dd857328c5d986bb81da15de3c3e1c79e71ad013968066  Bitcoin_FullNode_Jan3_2024.7z.008
-09a8909032723310281129f60f984bab6de1d68458608a0ed4636349f627a2da  Bitcoin_FullNode_Jan3_2024.7z.009
-21efa7bedf3e3d05040df9a5187aca8d2d1bd9e75c8474e96d9c0f66fc37fb3d  Bitcoin_FullNode_Jan3_2024.7z.010
-4b2be9a564fee97909faa6f152461bca0402076f9a15150267b1e8cfaeaf6265  Bitcoin_FullNode_Jan3_2024.7z.011
-39b0de4feace0e11e34f3640f8e556c5e809a538bfee88a269b5db6d9dc7c54a  Bitcoin_FullNode_Jan3_2024.7z.012
-377f7314aa3fe28400e087655de6a0b414de1b6ccaa5e577b0cb70ed5bf92f18  Bitcoin_FullNode_Jan3_2024.7z.013
-071c36084293a701cedebf8d0fa236f4c1ec70b56e8de8b2ef60f301a37aba36  Bitcoin_FullNode_Jan3_2024.7z.014
-355e3184482bfede9255921594e7bef7a47b9f03cb105ca2ced6e36c968ba7f2  Bitcoin_FullNode_Jan3_2024.7z.015
-2fe98d81cfbf678d5b9a08c3a859bd98d6035871aa6e96b588d90a0b743a9758  Bitcoin_FullNode_Jan3_2024.7z.016
-b167b1a459dd0b6e1f6401acced276f2ee82171af5b61e5c669650cbef539d9d  Bitcoin_FullNode_Jan3_2024.7z.017
-c54a0bda447c4515dd35ce19697c6271177f10da3dcd7375906ebd7372f79bee  Bitcoin_FullNode_Jan3_2024.7z.018
+0a7bcf86a8c6ec78dd576a4207438f7ee6f91ec52d1a368a78bb083b3751bd80  Bitcoin-FullNodeData-March-16th-2024.7z.001
+304ffec7e4c696473e085394a7bd852894460b3fd0d2630334a4fe75fc1224c7  Bitcoin-FullNodeData-March-16th-2024.7z.002
+2e52ef4c8b69bd2b9204edeabef3987661612d04f112746b2408ec807f456fab  Bitcoin-FullNodeData-March-16th-2024.7z.003
+123c96b2e5b675ae20209e1a97dca4df4db4e4eecca1484448e872fa6e03fc0e  Bitcoin-FullNodeData-March-16th-2024.7z.004
+d9ec1aa1ca7b05354e52d20eb2605d01b2fe6d1a7b13daf2af6e306fcdeb7681  Bitcoin-FullNodeData-March-16th-2024.7z.005
+746f18a471f0b3131b235fdf31ef65ca809bdd6c5bc6253a9823b24349a16b91  Bitcoin-FullNodeData-March-16th-2024.7z.006
+aac3b7a14ab12005797e642a03c5d27e8fe8a302858f2c3af2dbeab26266ae3d  Bitcoin-FullNodeData-March-16th-2024.7z.007
+3cc6e305986eb3d3671eb2ae5bfcaa51046aa9a82e3ca2180b669e6d1ee63017  Bitcoin-FullNodeData-March-16th-2024.7z.008
+0f8e98ea8f11ca89796a5cc593679f3fb8da0193f8013e2236bbc5fd42fd576a  Bitcoin-FullNodeData-March-16th-2024.7z.009
+f14b6ed57d19f836bb43b4a4d2d4f8833fcbc4f88f10fa16504796324e668d5e  Bitcoin-FullNodeData-March-16th-2024.7z.010
+5687ceac2ed41ced10eca5e217375b648d9775e493c2c6ec7451718517be478f  Bitcoin-FullNodeData-March-16th-2024.7z.011
+5d68190032a555562e5807da1e80985fbe926d4e15a59af1ad39a1673bcd3967  Bitcoin-FullNodeData-March-16th-2024.7z.012
+7535fdbdae468b99e3b22595fc6fceede0a5c50eb9582dbe0cddab007191a75f  Bitcoin-FullNodeData-March-16th-2024.7z.013
+932008e51d1e1736c026d294308b8d913c2d101a2229dc9fd88108714c4aadee  Bitcoin-FullNodeData-March-16th-2024.7z.014
+eb5d18560b20e53bdbf58d7d507bc59598b75c83a85848cb52aeb0fc17761541  Bitcoin-FullNodeData-March-16th-2024.7z.015
+32cfc3071d1ec5d3ccc59bde80ee83158a826f9129cbb330e08edcc36c7cc719  Bitcoin-FullNodeData-March-16th-2024.7z.016
+5201ccdb87689f010bf028d78039e1785ce1c38cd5e65abce95a7ff522c8015e  Bitcoin-FullNodeData-March-16th-2024.7z.017
+f61f67712888c84c1d6b2508e2541692fd0aa1dc431dd088c8c465756bc8f01b  Bitcoin-FullNodeData-March-16th-2024.7z.018
+7a0ad01d71d6d2482ec3fc56bdb7d1a717e90aba71b3ac94fe572033f3a3c07b  Bitcoin-FullNodeData-March-16th-2024.7z.019
+837c04e5b95ea4e61214a15c1329fc65e5d4e62aca91652d27b7f24e71584dc0  Bitcoin-FullNodeData-March-16th-2024.7z.020
+1b691c7e9df722662bcd7d4e0947c4fe88e5cf1a890c8fee77ce4f1fa4fa94e7  Bitcoin-FullNodeData-March-16th-2024.7z.021
 
 ------------
 
