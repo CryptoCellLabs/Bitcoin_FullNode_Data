@@ -9,20 +9,22 @@ The data of this bitcoin full node data file is as of April 12st, 2024
 # 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
 # 最新更新至2024年4月12日。
 
+# Bitcoin Full Node data files
+
+# 1. Quark Cloud / 夸克网盘
+https://pan.quark.cn/s/4c3b98e42c1f
+OR
+# 2. Google Drive / 谷歌云硬盘
+Bitcoin_FullNode_Dec3_2023_CryptoCeLL_Labs.torrent
+
+https://drive.google.com/drive/folders/1wpxjYwhofjA7s6LJ3H3lo8lHCAtOFqv2
+
 -------
-由于Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（buy.btcfullnode.org）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
-我们会将包含上述三类数据的大容量硬盘（NTFS格式）快递给你，便于你第一时间完成全节点构建。
-
-Since the file of the Bitcoin full node is huge, if downloading is inconvenient and you want to quickly obtain the full node data file, you can also go to Amazon(amazon.btcfullnode.org) to purchase the Bitcoin full node + Doge full node + Litecoin full node that we have stored in the hard disk.
-We will deliver a large-capacity hard drive (NTFS format) containing the above three types of data to you by express delivery, so that you can complete the full node construction as soon as possible.
---------
-
 文件列表：包含18个文件
 <img width="501" alt="BTC" src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/56abb838-4f2b-4882-94ad-6e3c8be1a124">
 
 下载后使用7zip进行多卷标解压缩，并校验每个文件的SHA256数值的正确性（确保你下载的文件的完整性）
 各个文件的SHA256如下：
-
 
 c7183e145795157116a47032db4c804948732f4c00d5ec0e9c154be8b6987f18  Bitcoin-FullNode-2024-04-12.7z.001
 
@@ -61,35 +63,13 @@ e67bcc1c7d8524cbb3388c3262aa0d2215d6861feff52b700cd6ef0585633644  Bitcoin-FullNo
 e187aa70e20a6329e65f60259ed91c22985a247afe439d4b0ee01944e8b03a21  Bitcoin-FullNode-2024-04-12.7z.018
 
 
-Bitcoin Full Node
-http://www.BTCFullNode.org/
+-------
+由于Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（buy.btcfullnode.org）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
+我们会将包含上述三类数据的大容量硬盘（NTFS格式）快递给你，便于你第一时间完成全节点构建。
 
-Website
-https://www.CryptoCell.Guru
-
-Twitter
-https://twitter.com/CryptoCellLabs
-
-Email
-YoRHa@CryptoCell.guru
-
-Discord
-http://C2Labs.Club
-
-XENTurbo
-https://XENTurbo.io/ 
-
-# Bitcoin Full Node data files
-
-# 1. Quark Cloud / 夸克网盘
-https://pan.quark.cn/s/4c3b98e42c1f
-OR
-# 2. Google Drive / 谷歌云硬盘
-Bitcoin_FullNode_Dec3_2023_CryptoCeLL_Labs.torrent
-
-https://drive.google.com/drive/folders/1wpxjYwhofjA7s6LJ3H3lo8lHCAtOFqv2
-
-
+Since the file of the Bitcoin full node is huge, if downloading is inconvenient and you want to quickly obtain the full node data file, you can also go to Amazon(amazon.btcfullnode.org) to purchase the Bitcoin full node + Doge full node + Litecoin full node that we have stored in the hard disk.
+We will deliver a large-capacity hard drive (NTFS format) containing the above three types of data to you by express delivery, so that you can complete the full node construction as soon as possible.
+--------
 ------------------------
 
 # Description
@@ -126,3 +106,21 @@ Bitcoin全節點數據文件
 
 如有任何問題，隨時聯繫  YoRHa@CryptoCell.guru
 https://github.com/CryptoCellLabs
+
+Bitcoin Full Node
+http://www.BTCFullNode.org/
+
+Website
+https://www.CryptoCell.Guru
+
+Twitter
+https://twitter.com/CryptoCellLabs
+
+Email
+YoRHa@CryptoCell.guru
+
+Discord
+http://C2Labs.Club
+
+XENTurbo
+https://XENTurbo.io/ 
