@@ -19,7 +19,7 @@ Bitcoin_FullNode_Dec3_2023_CryptoCeLL_Labs.torrent
 
 https://drive.google.com/drive/folders/1wpxjYwhofjA7s6LJ3H3lo8lHCAtOFqv2
 
-# 3. Ordinals Index 索引数据（2024/04/19 - 区块839816）
+# 3. Ordinals Index 索引数据（2024/04/21 - 区块840178）
 https://github.com/CryptoCellLabs/Ordinals-Index-Data 
 <img width="1436" alt="ord-index" src="https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data/assets/110719019/781f4dd0-97aa-4db3-ab91-62744e2b6440">
 
