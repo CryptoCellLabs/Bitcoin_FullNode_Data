@@ -8,6 +8,9 @@ The data of this bitcoin full node data file is as of April 12st, 2024
 
 # 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
 # 最新更新至2024年4月12日。
+# 交流电报群
+https://t.me/CryptoCell_Future
+
 
 # Bitcoin Full Node data files
 
