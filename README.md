@@ -4,15 +4,33 @@ http://www.BTCFullNode.org/
 # Bitcoin Full Node Data / 比特币全节点数据
 
 Provide Bitcoin full node data to facilitate everyone to synchronize Bitcoin full nodes
-The data of this bitcoin full node data file is as of April 12st, 2024
+The data of this bitcoin full node data file is as of April 26st, 2024
 
 # 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
-# 最新更新至2024年4月12日。
+# 最新更新至2024年4月26日(提供VMWare Workstation Pro的虚拟机镜像)
 # 交流电报群
 https://t.me/CryptoCell_Future
 
+# 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/04/26
+# 已包含Bitcoin Index索引数据
 
-# Bitcoin Full Node data files
+使用方法：
+0、下载Bitcoin虚拟机镜像文件
+
+1、安装VMWare Workstation Pro
+
+2、使用VMWare Workstation Pro打开解压缩后的Bitcoin虚拟机镜像文件
+
+
+注意：
+
+1、请确保你的Windows电脑有足够大的内存，至少16G内存
+
+2、请将Bitcoin虚拟机镜像文件拷贝到固态硬盘SSD，以便确保足够的读写性能
+
+----------------------------
+
+# 独立的数据文件 / Bitcoin Full Node data files
 
 # 1. Quark Cloud / 夸克网盘
 https://pan.quark.cn/s/4c3b98e42c1f
