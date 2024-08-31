@@ -9,12 +9,12 @@ The data of this bitcoin full node data file is as of May 1, 2024
 ---------------------
 
 # 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
-# Bitcoin全节点数据文件最新更新至2024年5月1日
+# Bitcoin全节点数据文件最新更新至2024年8月31日
 # 交流电报群
 https://t.me/CryptoCell_Future
 
 --------------------------
-# 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/04/26
+# 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/08/31
 # 已包含Bitcoin Index索引数据
 
 使用方法：
@@ -106,5 +106,4 @@ YoRHa@CryptoCell.guru
 Discord
 http://C2Labs.Club
 
-XENTurbo
-https://XENTurbo.io/ 
+
