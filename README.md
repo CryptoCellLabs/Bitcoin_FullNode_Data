@@ -13,6 +13,8 @@ The data of this bitcoin full node data file is as of May 1, 2024
 # 交流电报群
 https://t.me/CryptoCell_Future
 
+<img width="485" alt="Bitcoin全节点数据文件大小" src="https://github.com/user-attachments/assets/f62677e7-fb0b-4809-8b98-680f185655e4">
+
 --------------------------
 # 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/08/31
 # 已包含Bitcoin Index索引数据
