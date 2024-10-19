@@ -14,6 +14,10 @@ The data of this bitcoin full node data file is as of May 1, 2024
 https://t.me/CryptoCell_Future
 # QQ群
 ![IMG_8945](https://github.com/user-attachments/assets/6d8e2635-a5f7-47b8-b013-6f2e5673f4fa)
+
+# 推特
+Twitter https://twitter.com/CryptoCellLabs
+
 <img width="485" alt="Bitcoin全节点数据文件大小" src="https://github.com/user-attachments/assets/f62677e7-fb0b-4809-8b98-680f185655e4">
 
 
