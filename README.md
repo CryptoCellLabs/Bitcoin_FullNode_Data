@@ -17,24 +17,6 @@ https://t.me/CryptoCell_Future
 Twitter https://twitter.com/CryptoCellLabs
 
 --------------------------
-# 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/12/8
-# 已包含Bitcoin Index索引数据
-
-使用方法：
-0、下载Bitcoin虚拟机镜像文件
-
-1、安装VMWare Workstation Pro
-
-2、使用VMWare Workstation Pro打开解压缩后的Bitcoin虚拟机镜像文件
-
-
-注意：
-
-1、请确保你的Windows电脑有足够大的内存，至少16G内存
-
-2、请将Bitcoin虚拟机镜像文件拷贝到固态硬盘SSD，以便确保足够的读写性能
-
-----------------------------
 
 # 独立的数据文件 / Bitcoin Full Node data files
 
