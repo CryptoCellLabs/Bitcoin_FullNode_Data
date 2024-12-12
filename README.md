@@ -6,7 +6,7 @@ http://www.BTCFullNode.org/
 ---------------------
 
 # 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
-# Bitcoin全节点数据文件最新更新至2024年10月20日
+# Bitcoin全节点数据文件最新更新至2024年12月8日
 # 交流电报群
 https://t.me/CryptoCell_Future
 
@@ -16,16 +16,8 @@ https://t.me/CryptoCell_Future
 # 推特
 Twitter https://twitter.com/CryptoCellLabs
 
-# QQ群
-![IMG_8945](https://github.com/user-attachments/assets/6d8e2635-a5f7-47b8-b013-6f2e5673f4fa)
-
-
-<img width="485" alt="Bitcoin全节点数据文件大小" src="https://github.com/user-attachments/assets/f62677e7-fb0b-4809-8b98-680f185655e4">
-
-
-
 --------------------------
-# 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/10/20
+# 包含Bitcoin全节点的VMWare虚拟机完整镜像（开箱即用）2024/12/8
 # 已包含Bitcoin Index索引数据
 
 使用方法：
@@ -50,16 +42,8 @@ Twitter https://twitter.com/CryptoCellLabs
 
 https://pan.quark.cn/s/4c3b98e42c1f
 
-
-# 2. 阿里云盘
-
-https://www.alipan.com/s/Z64K2SMEgK9
-
-# 3. Ordinals Index 索引数据（2024/04/21 - 区块840178）
-https://github.com/CryptoCellLabs/Ordinals-Index-Data 
-
 -------
-由于VMWare版本Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（[buy.btcfullnode.org](https://buy.btcfullnode.org)）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
+由于Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（[buy.btcfullnode.org](https://buy.btcfullnode.org)）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
 我们会将包含上述三类数据的大容量硬盘（NTFS/exFAT格式）快递给你，便于你第一时间完成全节点构建。
 
 Since the file of the Bitcoin full node is huge, if downloading is inconvenient and you want to quickly obtain the full node data file, you can also go to Amazon(amazon.btcfullnode.org) to purchase the Bitcoin full node + Doge full node + Litecoin full node that we have stored in the hard disk.
