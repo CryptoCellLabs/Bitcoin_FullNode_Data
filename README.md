@@ -25,7 +25,7 @@ Twitter https://twitter.com/CryptoCellLabs
 https://pan.quark.cn/s/4c3b98e42c1f
 
 -------
-由于Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（[buy.btcfullnode.org](https://buy.btcfullnode.org)）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
+由于Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（[buy.btcfullnode.org](https://buy.btcfullnode.org) or m.tb.cn/h.TVH5csW?tk=y8ST3DQqFli ）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
 我们会将包含上述三类数据的大容量硬盘（NTFS/exFAT格式）快递给你，便于你第一时间完成全节点构建。
 
 Since the file of the Bitcoin full node is huge, if downloading is inconvenient and you want to quickly obtain the full node data file, you can also go to Amazon(amazon.btcfullnode.org) to purchase the Bitcoin full node + Doge full node + Litecoin full node that we have stored in the hard disk.
