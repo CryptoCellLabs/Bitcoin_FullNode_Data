@@ -5,6 +5,9 @@ http://www.BTCFullNode.org/
 Bitcoin Full Node Data - April 1st,2025
 比特币全节点数据(更新到2025年4月1日)
 
+<img width="560" alt="截屏2025-04-19 08 37 18" src="https://github.com/user-attachments/assets/90b573f7-9b13-4c96-9002-976e5a1fdc42" />
+<img width="598" alt="截屏2025-04-19 08 37 26" src="https://github.com/user-attachments/assets/f8d67821-4db0-4953-9bc1-e5500c137619" />
+
 
 ---------------------
 
