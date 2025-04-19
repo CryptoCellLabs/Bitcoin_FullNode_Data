@@ -28,7 +28,8 @@ Twitter https://twitter.com/CryptoCellLabs
 
 # 1. Quark Cloud / 夸克网盘
 
-https://pan.quark.cn/s/4c3b98e42c1f
+链接：https://pan.quark.cn/s/b5136263ebd9
+提取码：4SEy
 
 -------
 由于Bitcoin全节点的文件巨大，如果下载不方便，想要快速获得全节点数据文件，也可以至Taobao商店（[buy.btcfullnode.org](https://buy.btcfullnode.org) ）购买我们已经存放到硬盘内的Bitcoin全节点+Doge全节点+Litecoin全节点。
