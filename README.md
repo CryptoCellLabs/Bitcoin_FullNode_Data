@@ -13,8 +13,7 @@ Bitcoin Full Node Data - April 1st,2025
 
 # 定期更新的Bitcoin比特币全节点完整数据，以便让你最快速度的完成同步。
 # Bitcoin全节点数据文件最新更新至2025年4月1日
-# 交流电报群
-https://t.me/CryptoCell_Future
+
 
 # 闲鱼/Taobao商店 
 （[buy.btcfullnode.org](https://buy.btcfullnode.org)）
