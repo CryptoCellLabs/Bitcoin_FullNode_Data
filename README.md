@@ -16,8 +16,10 @@ Bitcoin Full Node Data - April 1st,2025
 # 交流电报群
 https://t.me/CryptoCell_Future
 
-# Taobao商店 
+# 闲鱼/Taobao商店 
 （[buy.btcfullnode.org](https://buy.btcfullnode.org)）
+![闲鱼商店二维码（小）](https://github.com/user-attachments/assets/e82cdfbf-1ad9-4be5-8593-c905cbbe9cf4)
+及时更新的数据
 
 # 推特
 Twitter https://twitter.com/CryptoCellLabs
